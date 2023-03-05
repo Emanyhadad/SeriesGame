@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Register">
+
+    <com.google.android.material.circularreveal.CircularRevealLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imRegisterUser_image"
+            android:layout_width="@dimen/RegisterUserImageW"
+            android:layout_height="@dimen/RegisterUserImageH"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/RegisterUserImageMT"
+            android:layout_marginBottom="5dp"
+            android:src="@drawable/userchild" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/tv_ٌRegister_pic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/Register_tv_pic_M"
+            android:fontFamily="@font/balsamiq_sans_bold"
+            android:text="@string/change_profile_picture"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textColor="#B33D526F"
+            android:textSize="@dimen/Register_tv_picTS" />
+
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/register_rec"
+            android:orientation="vertical"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp">
+
+            <TextView
+                android:id="@+id/Tv_fullname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableStart="@drawable/ic_user_icon"
+                android:drawablePadding="5dp"
+                android:paddingStart="20dp"
+                android:text="@string/full_name"
+                android:textColor="#3D526F"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:ignore="RtlSymmetry" />
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/ed_Register_full_name"
+                android:layout_width="@dimen/Register_ed_FullNameW"
+                android:layout_height="35dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/Register_rd_MT"
+                android:autofillHints=""
+                android:background="@drawable/rec_setting"
+                android:fontFamily="@font/robotomedium"
+                android:gravity="center"
+                android:hint="@string/ahmed_hadad"
+                android:inputType="textPersonName"
+                android:paddingBottom="@dimen/Register_FullName_PB"
+                android:textAlignment="center"
+                android:textColorHint="@color/InputEdit_grey" />
+
+            <TextView
+                android:id="@+id/tv_Email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:drawableStart="@drawable/ic_email_84"
+                android:drawablePadding="5dp"
+                android:paddingStart="20dp"
+                android:text="@string/email"
+                android:textColor="#3D526F"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:ignore="RtlSymmetry,UseCompatTextViewDrawableXml" />
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/ed_Register_email"
+                android:layout_width="@dimen/Register_ed_FullNameW"
+                android:layout_height="35dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/Register_rd_MT"
+                android:autofillHints=""
+                android:background="@drawable/rec_setting"
+                android:fontFamily="@font/robotomedium"
+                android:gravity="center"
+                android:hint="@string/user_gmail_com"
+                android:inputType="textEmailAddress"
+                android:paddingBottom="@dimen/Register_FullName_PB"
+                android:textAlignment="center"
+                android:textColorHint="@color/InputEdit_grey" />
+
+            <TextView
+                android:id="@+id/tv_username"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:drawableStart="@drawable/ic_badge_13"
+                android:paddingStart="20dp"
+                android:text="@string/username"
+                android:textColor="#3D526F"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:ignore="RtlSymmetry,UseCompatTextViewDrawableXml" />
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/ed_Register_Username"
+                android:layout_width="@dimen/Register_ed_FullNameW"
+                android:layout_height="35dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/Register_rd_MT"
+                android:autofillHints=""
+                android:background="@drawable/rec_setting"
+                android:fontFamily="@font/robotomedium"
+                android:gravity="center"
+                android:hint="@string/h_hadad3"
+                android:inputType="textPersonName"
+                android:paddingBottom="@dimen/Register_FullName_PB"
+                android:textAlignment="center"
+                android:textColorHint="@color/InputEdit_grey" />
+
+            <TextView
+                android:id="@+id/tv_Password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:drawableStart="@drawable/ic_lock_icon"
+                android:drawablePadding="5dp"
+                android:paddingStart="20dp"
+                android:text="@string/password"
+                android:textColor="#3D526F"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <com.google.android.material.circularreveal.CircularRevealLinearLayout
+                android:layout_width="@dimen/Register_ed_FullNameW"
+                android:layout_height="@dimen/Register_ed_FullNameH"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/Register_rd_MT"
+                android:orientation="horizontal">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/ed_Register_password"
+                    android:layout_width="@dimen/RegisterPasswordW"
+                    android:layout_height="35dp"
+                    android:layout_marginEnd="@dimen/Register_edPasswordME"
+                    android:layout_weight="1"
+                    android:autofillHints=""
+                    android:background="@drawable/rec_setting"
+                    android:fontFamily="@font/robotomedium"
+                    android:hint="@string/password"
+                    android:inputType="textPassword"
+                    android:paddingBottom="@dimen/Register_FullName_PB"
+                    android:textAlignment="center"
+                    tools:ignore="TouchTargetSizeCheck" />
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/ed_Register_repass"
+                    android:layout_width="@dimen/RegisterPasswordW"
+                    android:layout_height="35dp"
+                    android:layout_marginStart="@dimen/Register_edPasswordME"
+                    android:layout_weight="1"
+                    android:autofillHints=""
+                    android:background="@drawable/rec_setting"
+                    android:fontFamily="@font/robotomedium"
+                    android:hint="@string/confirm_password"
+                    android:inputType="textPassword"
+                    android:paddingBottom="@dimen/Register_FullName_PB"
+                    android:textAlignment="center" />
+            </com.google.android.material.circularreveal.CircularRevealLinearLayout>
+
+            <TextView
+                android:id="@+id/tv_BD"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:drawableStart="@drawable/ic_date"
+                android:drawablePadding="5dp"
+                android:paddingStart="20dp"
+                android:text="@string/date_of_birth"
+                android:textColor="#3D526F"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/ed_Register_BD"
+                android:layout_width="@dimen/Register_ed_FullNameW"
+                android:layout_height="35dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/Register_rd_MT"
+                android:autofillHints=""
+                android:background="@drawable/rec_setting"
+                android:drawableEnd="@drawable/ic_date"
+                android:fontFamily="@font/robotomedium"
+                android:gravity="center"
+                android:hint="@string/mm_dd_yyyy"
+                android:inputType="date"
+                android:paddingStart="@dimen/Register_edBD_PS"
+                android:paddingEnd="@dimen/Register_edBD_PS"
+                android:paddingBottom="@dimen/Register_FullName_PB" />
+
+            <TextView
+                android:id="@+id/tv_State"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:drawableStart="@drawable/ic_flag_icon"
+                android:drawablePadding="5dp"
+                android:paddingStart="20dp"
+                android:text="@string/state"
+                android:textColor="#3D526F"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <androidx.appcompat.widget.AppCompatSpinner
+                android:id="@+id/sp_Register_country"
+                android:layout_width="@dimen/Register_ed_FullNameW"
+                android:layout_height="35dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/Register_rd_MT"
+                android:background="@drawable/rec_setting"
+                android:entries="@array/counters"
+                android:gravity="center" />
+
+            <RadioGroup
+                android:layout_width="@dimen/Register_ed_FullNameW"
+                android:layout_height="@dimen/Register_RG_H"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/Register_FullNameMT"
+                android:orientation="horizontal">
+
+                <com.google.android.material.radiobutton.MaterialRadioButton
+                    android:id="@+id/rb_Register_Male"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_weight="1"
+                    android:buttonTint="@color/Pink"
+                    android:checked="true"
+                    android:fontFamily="@font/robotomedium"
+                    android:text="@string/male"
+                    android:textColor="#3D526F"
+                    android:textSize="@dimen/Register_rbTS" />
+
+                <com.google.android.material.radiobutton.MaterialRadioButton
+                    android:id="@+id/rb_Register_female"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/robotomedium"
+                    android:text="@string/female"
+                    android:textColor="#3D526F"
+                    android:textSize="@dimen/Register_rbTS"
+                    app:buttonTint="@color/Pink" />
+            </RadioGroup>
+
+        </LinearLayout>
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_save"
+            android:layout_width="320dp"
+            android:layout_height="@dimen/Register_btnSave_H"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/balsamiq_sans_bold"
+            android:text="@string/save"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            app:backgroundTint="@color/Blue2" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="30dp"
+            android:orientation="horizontal">
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/tv_have_account"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="@dimen/Register_tvHaveAcc_MB"
+                android:fontFamily="@font/robotomedium"
+                android:gravity="center"
+                android:text="@string/already_have"
+                android:textColor="@color/Black"
+                android:textSize="@dimen/Register_rbTS" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/tv_signin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="@dimen/Register_tvHaveAcc_MB"
+                android:fontFamily="@font/robotomedium"
+                android:gravity="center"
+                android:text="@string/sign_in"
+                android:textColor="@color/Pink"
+                android:textSize="@dimen/Register_rbTS"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+    </com.google.android.material.circularreveal.CircularRevealLinearLayout>
+</ScrollView>

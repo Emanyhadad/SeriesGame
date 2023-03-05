@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="Login_image_h" tools:ignore="MissingDefaultResource">75dp</dimen>
+
+        //Login
+        <dimen name="Login_edUserName">160dp</dimen>
+        <dimen name="Login_edUserName_height">30dp</dimen>
+        <dimen name="Login_edUserName_MB">10dp</dimen>
+        <dimen name="Login_ed_Password_w">160dp</dimen>
+        <dimen name="Login_ed_password_h">30dp</dimen>
+        <dimen name="Login_btnLogin_MT">10dp</dimen>
+        <dimen name="Login_tvRegister">2.5dp</dimen>
+        <dimen name="Login_tvRegisterTS">9sp</dimen>
+        <dimen name="Login_chRemember_MS">22.5dp</dimen>
+        <dimen name="Login_chRememberMT">7.5dp</dimen>
+        <dimen name="Login_chRemember_TS">12sp</dimen>
+        <dimen name="Login_LogoM">30dp</dimen>
+
+        //Register
+        <dimen name="RegisterLLMS">10dp</dimen>
+        <dimen name="RegisterLLMT">10dp</dimen>
+        <dimen name="RegisterLLME">10dp</dimen>
+        <dimen name="RegisterUserImageW">50dp</dimen>
+        <dimen name="RegisterUserImageH">50dp</dimen>
+        <dimen name="RegisterUserImageMT">10dp</dimen>
+        <dimen name="Register_tv_pic_M">5dp</dimen>
+        <dimen name="Register_tv_picTS">9sp</dimen>
+        <dimen name="Register_ed_FullNameW">160dp</dimen>
+        <dimen name="Register_ed_FullNameH">17.5dp</dimen>
+        <dimen name="Register_FullNameMT">7.5dp</dimen>
+        <dimen name="Register_FullName_PB">1.5dp</dimen>
+        <dimen name="Register_edEmailMT">7.5dp</dimen>
+        <dimen name="Register_LLMT">7.5dp</dimen>
+        <dimen name="RegisterPasswordW">65dp</dimen>
+        <dimen name="Register_edPasswordME">2.5dp</dimen>
+        <dimen name="Register_edBD_PS">5dp</dimen>
+        <dimen name="Register_RG_H">20dp</dimen>
+        <dimen name="Register_rbTS">9sp</dimen>
+        <dimen name="Register_btnSave_W">50dp</dimen>
+        <dimen name="Register_btnSave_H">25dp</dimen>
+        <dimen name="Register_btn_MT">15dp</dimen>
+        <dimen name="Register_tvHaveAcc_MB">15dp</dimen>
+
+        //Game
+        <dimen name="Game_LL_W">160dp</dimen>
+        <dimen name="Game_LL_H">40dp</dimen>
+        <dimen name="Game_image_W">25dp</dimen>
+        <dimen name="Game_image_H">25dp</dimen>
+        <dimen name="Game_LL_M">2.5dp</dimen>
+        <dimen name="Game_tv_fullName_MB">5dp</dimen>
+        <dimen name="Game_tvSco_TS">5sp</dimen>
+        <dimen name="Game_tvScore_W">30dp</dimen>
+        <dimen name="Game_tvScore_P">2.5dp</dimen>
+        <dimen name="Game_tv_Score_TS">10sp</dimen>
+        <dimen name="Game_LL2_H">35dp</dimen>
+        <dimen name="Game_LL2_MB">5dp</dimen>
+        <dimen name="Game_edNumber_W">100dp</dimen>
+        <dimen name="Game_edNumber_H">25dp</dimen>
+        <dimen name="Game_btn_check_W">50dp</dimen>
+        <dimen name="Game_btn_check_H">20dp</dimen>
+        <dimen name="Game_btn_check_M">10dp</dimen>
+        <dimen name="Game_TL_W">167.5dp</dimen>
+        <dimen name="Game_TL_H">175dp</dimen>
+        <dimen name="Game_TL_M">5dp</dimen>
+        <dimen name="Game_TR_W">167.5</dimen>
+        <dimen name="Game_TR_H">55dp</dimen>
+        <dimen name="Game_tvNum_WH">55dp</dimen>
+        <dimen name="Game_numTS">24sp</dimen>
+        <dimen name="Game_btn_newGame_W">75dp</dimen>
+        <dimen name="Game_btn_newGame_H">25dp</dimen>
+        <dimen name="Game_btn_newGame_TS">10sp</dimen>
+
+        //Settings
+        <dimen name="Settings_Image_W">75dp</dimen>
+        <dimen name="Settings_Image_H">75dp</dimen>
+        <dimen name="Settings_Image_MT">25dp</dimen>
+        <dimen name="Settings_Image_MB">25dp</dimen>
+        <dimen name="Settings_tv_AllGames_MS">10dp</dimen>
+        <dimen name="Settings_tv_AllGamesMT">7.5dp</dimen>
+        <dimen name="Settings_tv_AllGamesTS">14sp</dimen>
+        <dimen name="Settings_tv_LastGame_MS">10dp</dimen>
+        <dimen name="Settings_tv_LastGame_MT">7.5dp</dimen>
+        <dimen name="Settings_tv_LastGame_TS">14sp</dimen>
+
+        //MyRow
+        <dimen name="MyRow_LL_M">10dp</dimen>
+        <dimen name="MyRow_LL_P">6dp</dimen>
+        <dimen name="MyRow_tv_CustomScore_ME">20dp</dimen>
+        <dimen name="MyRow_tv_CustomScore_TS">10sp</dimen>
+        <dimen name="MyRow_tv_FullName_TS">10sp</dimen>
+        <dimen name="MyRow_tv_CustomDate_TS">10sp</dimen>
+
+        //Password
+        <dimen name="Password_Image_WH">75dp</dimen>
+        <dimen name="Password_M">30dp</dimen>
+        <dimen name="Password_TS">14sp</dimen>
+        <dimen name="Password_ed_W">150dp</dimen>
+        <dimen name="Password_ed_H">20dp</dimen>
+        <dimen name="Password_ed_MT">7.5dp</dimen>
+        <dimen name="Password_ed_P">5dp</dimen>
+        <dimen name="Password_ed_TS">10sp</dimen>
+        <dimen name="Password_btnSave_W">7.5dp</dimen>
+        <dimen name="Password_btnSave_H">25dp</dimen>
+        <dimen name="Password_btnSave_MT">10dp</dimen>
+
+        //Before The Game
+        <dimen name="BeforeGame_LL_W">175dp</dimen>
+        <dimen name="BeforeGame_LL_H">200dp</dimen>
+        <dimen name="BeforeGame_LL_MT">75dp</dimen>
+        <dimen name="BeforeGame_btn_Start_M">10dp</dimen>
+
+        //True
+        <dimen name="TrueToast_LL_P">5dp</dimen>
+        <dimen name="TrueToast_Image_ME">5dp</dimen>
+        <dimen name="TrueToast_tv_TS">14sp</dimen>
+
+        //False
+        <dimen name="FalseToast_Image_ME">5dp</dimen>
+        <dimen name="FalseToast_P">5dp</dimen>
+        <dimen name="FalseToast_text_TS">14sp</dimen>
+    <dimen name="Register_rd_MT">5dp</dimen>
+    <dimen name="Password_TP_ts">24sp</dimen>
+    <dimen name="Password_iv_MT">30dp</dimen>
+    <dimen name="Password_iv_MB">20dp</dimen>
+    <dimen name="Password_LL_W">330dp</dimen>
+    <dimen name="Password_LL_H">290dp</dimen>
+    <dimen name="Password_MS">20dp</dimen>
+    <dimen name="Password_MT">20dp</dimen>
+    <dimen name="Password_PS">10dp</dimen>
+    <dimen name="Password_ts">20sp</dimen>
+    <dimen name="Password_rdOP_MT">10dp</dimen>
+    <dimen name="Password_ed_ts">20sp</dimen>
+    <dimen name="Password_tv_MS">20dp</dimen>
+    <dimen name="Password_tv_MT">10dp</dimen>
+    <dimen name="Password_tv_PS">10dp</dimen>
+    <dimen name="Password_edMT">10dp</dimen>
+    <dimen name="Password_btn_W">310dp</dimen>
+    <dimen name="Rules_tv_ts">24sp</dimen>
+    <dimen name="Rules_iv_WH">80dp</dimen>
+</resources>

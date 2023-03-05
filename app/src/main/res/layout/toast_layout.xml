@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.circularreveal.CircularRevealLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/toast_layout_root"
+    android:orientation="horizontal"
+    android:padding="@dimen/TrueToast_LL_P"
+    android:background="#8BC34A" >
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/image"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="@dimen/TrueToast_Image_ME"
+        android:src="@drawable/ic_correct" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:fontFamily="@font/balsamiq_sans_bold"
+        android:gravity="center"
+        android:text="@string/correct_answer_awesome"
+        android:textColor="@color/Black"
+        android:textSize="@dimen/TrueToast_tv_TS" />
+
+</com.google.android.material.circularreveal.CircularRevealLinearLayout>

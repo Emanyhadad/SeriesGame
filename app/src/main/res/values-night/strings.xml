@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_rules">welcome Rules to help you play better: If you answer correctly, you will earn ten points. - In case you answered incorrectly, your points will remain fixed. - Be careful, if you leave the game you will have to start over when you return. - Don\'t worry, your game data will be saved in your game history. good luck,</string>
+    <string name="rules_to_help">Rules to help you play better:</string>
+    <string name="sign_in">Sign In</string>
+    <string name="setting">Setting</string>
+    <string name="log_out">Log out</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="game_rulesory">Game Rulesory</string>
+    <string name="rules1">- If you answer correctly, you will earn ten points.</string>
+    <string name="rules2">- In case you answered incorrectly, your points will remain fixed.</string>
+    <string name="rules3">- Be careful, if you leave the game you will have to start over when you return.</string>
+    <string name="rules4">- Don\'t worry, your game data will be saved in your game history.</string>
+    <string name="rules5">good luck,</string>
+    <string name="welcome">Welcome</string>
+    <string name="go">Go</string>
+    <string name="lets_log_you_in">Lets Log You In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="ahmed_hadad">Ahmed Hadad</string>
+    <string name="email">Email</string>
+    <string name="user_gmail_com">User@gmail.com</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="mm_dd_yyyy">MM/DD/YYYY</string>
+    <string name="state">State</string>
+    <string name="h_hadad3">h.hadad3</string>
+    <string name="score1">النقاط</string>
+    <string name="your_answer">Your Answer</string>
+    <string name="game_rules">Game Rules</string>
+    <string name="pass">..........</string>
+    <string name="password_01">password - 01</string>
+    <string name="ok">OK</string>
+</resources>

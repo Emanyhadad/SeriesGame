@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سلّسل</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="change_profile_picture">تغير صورة الملف الشخصي</string>
+    <string name="full_name">الاسم كامل</string>
+    <string name="e_mail_address">البريد الإلكتروني</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="birthdate">تاريخ الميلاد</string>
+    <string name="male">ذكر</string>
+    <string name="female">أنثى</string>
+    <string name="save">حفظ</string>
+    <string name="circular_imageview">Circular ImageView</string>
+    <string name="enter_your_ans">أدخل إجابتك</string>
+    <string name="check">تحقق</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="newGame">لعبة جديدة</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="_0">0</string>
+    <string name="show_all_games">عرض سجل الألعاب</string>
+    <string name="show_last_game_date">عرض تاريخ أخر لعبة</string>
+    <string name="clear_game_history">مسح محفوظات اللعبة</string>
+    <string name="remember_me">تذكرني؟</string>
+    <string name="don_t_have_an_account_register_now">لا تملك حسابًا؟ سجل الأن</string>
+    <string name="login">دخول</string>
+    <string name="already_have">هل لديك حساب بالفعل؟</string>
+    <string name="score">النقاط </string>
+    <string name="change_password">تغير كلمة المرور</string>
+    <string name="re_password">إعادة كلمة المرور</string>
+    <string name="new_password">كلمة المرور الجديدة</string>
+    <string name="wrong_answer_try_again">إجابة خاطئة حاول مرة أخرى..</string>
+    <string name="correct_answer_awesome">الجواب الصحيح ، رائع!</string>
+    <string name="date_time">الوقت والتاريخ</string>
+    <string name="current_password">كلمة المرور الحالية</string>
+    <string name="start">بدء اللعب</string>
+    <string name="welcome_rules">welcome Rules to help you play better: If you answer correctly, you will earn ten points. - In case you answered incorrectly, your points will remain fixed. - Be careful, if you leave the game you will have to start over when you return. - Don\'t worry, your game data will be saved in your game history. good luck,</string>
+    <string name="rules_to_help">قواعد لمساعدتك على اللعب بشكل أفضل:</string>
+    <string name="sign_in">تسجيل دخول</string>
+    <string name="setting">الإعدادات</string>
+    <string name="log_out">تسجيل خروج</string>
+    <string name="contact_us">تواصل معنا</string>
+    <string name="game_rulesory">قواعد اللعب </string>
+    <string name="rules1">- إذا أجبت بشكل صحيح ستحصل على عشر نقاط.</string>
+    <string name="rules2">- في حالة إجابتك بشكل غير صحيح ، ستبقى نقاطك ثابتة.</string>
+    <string name="rules3">- كن حذرًا ، إذا غادرت اللعبة ، فسيتعين عليك البدء من جديد عند العودة.</string>
+    <string name="rules4">- لا تقلق ، سيتم حفظ بيانات اللعبة في سجل اللعبة.</string>
+    <string name="rules5">حظا سعيدا،</string>
+    <string name="welcome">أهلا بك</string>
+    <string name="go">هيّا</string>
+    <string name="lets_log_you_in">هيّا نسجل الدخول</string>
+    <string name="sign_up">سجلّ الأن</string>
+    <string name="ahmed_hadad">أحمد الحداد</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="user_gmail_com">User@gmail.com</string>
+    <string name="date_of_birth">تاريخ الميلاد</string>
+    <string name="mm_dd_yyyy">MM/DD/YYYY</string>
+    <string name="state">الدولة</string>
+    <string name="h_hadad3">h.hadad3</string>
+    <string name="score1">النقاط</string>
+    <string name="your_answer">إجابتك</string>
+    <string name="game_rules">قواعد اللعبة</string>
+    <string name="pass">..........</string>
+    <string name="password_01">password - 01</string>
+    <string name="ok">OK</string>
+    <string-array name="counters">
+        <item>Palestine</item>
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Austrian Empire</item>
+        <item>Azerbaijan</item>
+        <item>Baden</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Bavaria</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin (Dahomey)</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>Brunei</item>
+        <item>Brunswick and Lüneburg</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso (Upper Volta)</item>
+        <item>Burma</item>
+        <item>Burundi</item>
+        <item>Cabo Verde</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Central American Federation</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo Free State</item>
+        <item>Costa Rica</item>
+        <item>Cote d’Ivoire (Ivory Coast)</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Cyprus</item>
+        <item>Czechia</item>
+        <item>Czechoslovakia</item>
+        <item>Democratic Republic of the Congo</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        <item>Duchy of Parma</item>
+        <item>East Germany (German Democratic Republic)</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Eswatini</item>
+        <item>Ethiopia</item>
+        <item>Federal Government of Germany</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>Gabon</item>
+        <item>Gambia</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Grand Duchy of Tuscany</item>
+        <item>Greece</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Hanover</item>
+        <item>Hanseatic Republics</item>
+        <item>Hawaii</item>
+        <item>Hesse</item>
+        <item>Holy See</item>
+        <item>Honduras</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kosovo</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        <item>Laos</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lesotho</item>
+        <item>Lew Chew</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Maldives</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Marshall Islands</item>
+        <item>Mauritania</item>
+        <item>Mauritius</item>
+        <item>Mecklenburg-Schwerin</item>
+        <item>Mecklenburg-Strelitz</item>
+        <item>Mexico</item>
+        <item>Micronesia</item>
+        <item>Moldova</item>
+        <item>Monaco</item>
+        <item>Mongolia</item>
+        <item>Montenegro</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Namibia</item>
+        <item>Nassau</item>
+        <item>Nauru</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>North German Confederation</item>
+        <item>North German Union</item>
+        <item>North Macedonia</item>
+        <item>Norway</item>
+        <item>Oldenburg</item>
+        <item>Oman</item>
+        <item>Orange Free State</item>
+        <item>Pakistan</item>
+        <item>Palestine</item>
+        <item>Palau</item>
+        <item>Panama</item>
+        <item>Papal States</item>
+        <item>Papua New Guinea</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Piedmont-Sardinia</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Qatar</item>
+        <item>Republic of Genoa</item>
+        <item>Republic of Korea (South Korea)</item>
+        <item>Republic of the Congo</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        <item>Saint Kitts and Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Saint Vincent and the Grenadines</item>
+        <item>Samoa</item>
+        <item>San Marino</item>
+        <item>Sao Tome and Principe</item>
+        <item>Saudi Arabia</item>
+        <item>Schaumburg-Lippe</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Singapore</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Solomon Islands</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Sudan</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>Swedenuriname</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>Tajikistan</item>
+        <item>Tanzania</item>
+        <item>Texas</item>
+        <item>Thailand</item>
+        <item>Timor-Leste</item>
+        <item>Togo</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turkmenistan</item>
+        <item>Tuvalu</item>
+        <item>Two Similes</item>
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>Union of Soviet Socialist Republics</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Vanuatu</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Wurttemberg</item>
+        <item>Yemen</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+    </string-array>
+</resources>

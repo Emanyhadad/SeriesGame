@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/final_project/app/src/main/res/drawable-v24/GameIm_foreground.xml" value="0.164" />
+        <entry key="..\:/final_project/app/src/main/res/drawable-v24/ic_launcher1_foreground.xml" value="0.153" />
+        <entry key="..\:/final_project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1565" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/GameIm_background.xml" value="0.153" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/btn_bg.xml" value="0.1105" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/circular_image.xml" value="0.1" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/falseans.xml" value="0.1985" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_award_48.xml" value="0.1565" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_badge_13.xml" value="0.168" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_baseline_assignment_return_24.xml" value="0.153" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.153" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_calendar_60.xml" value="0.1565" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_correct.xml" value="0.1985" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_date.xml" value="0.153" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_email_84.xml" value="0.168" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_email_icon.xml" value="0.168" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_flag_icon.xml" value="0.168" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_gender_icon.xml" value="0.1565" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_launcher1_background.xml" value="0.153" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.153" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_lock.xml" value="0.168" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_lock_icon.xml" value="0.168" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_lock_svgrepo_com.xml" value="0.153" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_logo.xml" value="0.2035" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_logo1.xml" value="0.2115" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_logo2.xml" value="0.137" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_money_bag.xml" value="0.153" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_money_bag__1_.xml" value="0.1765" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_money_bag__2_.xml" value="0.1865" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_notes.xml" value="0.1565" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_password.xml" value="0.153" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_phone_in_talk_24px.xml" value="0.1565" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_resource_true.xml" value="0.1565" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_setting.xml" value="0.1565" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_settings.xml" value="0.1565" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_sign_out.xml" value="0.1565" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_trash_simple.xml" value="0.1565" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_user_icon.xml" value="0.104" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_user_profile.xml" value="0.17" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_user_svgrepo_com.xml" value="0.153" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_user_svgrepo_com__1_.xml" value="0.1475" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/ic_wrong_answer.xml" value="0.1985" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/inputelements.xml" value="0.1665" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/line.xml" value="0.1" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/linegame.xml" value="0.1" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/num.xml" value="0.1985" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/num1.xml" value="0.1985" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/num2.xml" value="0.16" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/num3.xml" value="0.1985" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/num4.xml" value="0.16" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/num5.xml" value="0.1985" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/rec_setting.xml" value="0.1" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/register_rec.xml" value="0.1" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/settings.xml" value="0.2115" />
+        <entry key="..\:/final_project/app/src/main/res/drawable/trueans.xml" value="0.1985" />
+        <entry key="..\:/final_project/app/src/main/res/layout/activity_befor_game.xml" value="0.1675929884566054" />
+        <entry key="..\:/final_project/app/src/main/res/layout/activity_before_the_game.xml" value="0.22" />
+        <entry key="..\:/final_project/app/src/main/res/layout/activity_data_base.xml" value="0.25" />
+        <entry key="..\:/final_project/app/src/main/res/layout/activity_game.xml" value="0.18" />
+        <entry key="..\:/final_project/app/src/main/res/layout/activity_game_custome_item.xml" value="0.1" />
+        <entry key="..\:/final_project/app/src/main/res/layout/activity_my_acount.xml" value="0.1814814814814815" />
+        <entry key="..\:/final_project/app/src/main/res/layout/activity_password.xml" value="0.22" />
+        <entry key="..\:/final_project/app/src/main/res/layout/activity_rules.xml" value="0.1814814814814815" />
+        <entry key="..\:/final_project/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/final_project/app/src/main/res/layout/game_activity.xml" value="0.25" />
+        <entry key="..\:/final_project/app/src/main/res/layout/login_activity.xml" value="0.25" />
+        <entry key="..\:/final_project/app/src/main/res/layout/my_row.xml" value="0.33" />
+        <entry key="..\:/final_project/app/src/main/res/layout/register_activity.xml" value="0.25" />
+        <entry key="..\:/final_project/app/src/main/res/layout/settings_activity.xml" value="0.22" />
+        <entry key="..\:/final_project/app/src/main/res/layout/splash_activity.xml" value="0.2" />
+        <entry key="..\:/final_project/app/src/main/res/layout/splash_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/final_project/app/src/main/res/layout/toast_last_date.xml" value="0.1814814814814815" />
+        <entry key="..\:/final_project/app/src/main/res/layout/toast_last_game.xml" value="0.1675929884566054" />
+        <entry key="..\:/final_project/app/src/main/res/layout/toast_layout.xml" value="0.1675929884566054" />
+        <entry key="..\:/final_project/app/src/main/res/layout/toast_layout1.xml" value="0.1675929884566054" />
+        <entry key="..\:/final_project/app/src/main/res/layout/toast_true.xml" value="0.15604959384352288" />
+        <entry key="..\:/final_project/app/src/main/res/menu/menu.xml" value="0.22" />
+        <entry key="..\:/final_project/app/src/main/res/mipmap-anydpi-v26/GameIm.xml" value="0.153" />
+        <entry key="..\:/final_project/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.137" />
+        <entry key="..\:/final_project/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.137" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

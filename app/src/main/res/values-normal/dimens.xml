@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Register_rd_MT">5dp</dimen>
+    <dimen name="Password_TP_ts">24sp</dimen>
+    <dimen name="Password_iv_MT">30dp</dimen>
+    <dimen name="Password_iv_MB">20dp</dimen>
+    <dimen name="Password_LL_W">330dp</dimen>
+    <dimen name="Password_LL_H">290dp</dimen>
+    <dimen name="Password_MS">20dp</dimen>
+    <dimen name="Password_MT">20dp</dimen>
+    <dimen name="Password_PS">10dp</dimen>
+    <dimen name="Password_ts">20sp</dimen>
+    <dimen name="Password_rdOP_MT">10dp</dimen>
+    <dimen name="Password_ed_ts">20sp</dimen>
+    <dimen name="Password_tv_MS">20dp</dimen>
+    <dimen name="Password_tv_MT">10dp</dimen>
+    <dimen name="Password_tv_PS">10dp</dimen>
+    <dimen name="Password_edMT">10dp</dimen>
+    <dimen name="Password_btn_W">310dp</dimen>
+    <dimen name="Rules_tv_ts">24sp</dimen>
+    <dimen name="Rules_iv_WH">80dp</dimen>
+</resources>
